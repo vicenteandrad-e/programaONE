@@ -1,5 +1,5 @@
 # ProgramaONE + Alura
-# Repositório dedicados aos conteúdos oferecidos pelo programaONE + Alura.
+> Repositório dedicados aos conteúdos oferecidos pelo programaONE + Alura.
 
 ## Etapas: 
 
