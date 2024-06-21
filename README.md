@@ -6,7 +6,7 @@
 ### Formação Iniciante Programação
 
 1. Lógica de Programação: merguççhe em programação com JavaScript :white_check_mark:
-2. Lógica de programação: esplore funções e listas
+2. Lógica de programação: esplore funções e listas ![](https://geps.dev/progress/41)
 3. ChatGPT: otimizando a qualidade dos resultado
 4. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags 
 5. HTML e CSS: Classes, posicionamento e Flexbox
