@@ -7,7 +7,7 @@
 
 1. Lógica de Programação: merguççhe em programação com JavaScript :white_check_mark:
 2. Lógica de programação: esplore funções e listas :white_check_mark:
-3. ChatGPT: otimizando a qualidade dos resultado
+3. ChatGPT: otimizando a qualidade dos resultado ![](https://geps.dev/progress/27)
 4. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags 
 5. HTML e CSS: Classes, posicionamento e Flexbox
 6. HTML e CSS: cabeçalho, footer e variáveis CSS
@@ -17,7 +17,7 @@
 
 ### Formação Desenvolvimento Pessoal
 
-1. Aprender a aprender: técnicas para seu autodesenvolvimento ![](https://geps.dev/progress/75)
-2. Linkedin: como fazer o seu perfil trabalhar para você
-3. Foco: trazendo mais resultado para o dia a dia
+1. Aprender a aprender: técnicas para seu autodesenvolvimento :white_check_mark:
+2. Linkedin: como fazer o seu perfil trabalhar para você 
+3. Foco: trazendo mais resultado para o dia a dia ![](https://geps.dev/progress/23)
 4. Hábitos: da produtividade às metas pessoais
