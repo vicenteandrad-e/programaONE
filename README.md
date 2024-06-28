@@ -7,7 +7,7 @@
 
 1. Lógica de Programação: mergulhe em programação com JavaScript :white_check_mark:
 2. Lógica de programação: esplore funções e listas :white_check_mark:
-3. ChatGPT: otimizando a qualidade dos resultado ![](https://geps.dev/progress/54)
+3. ChatGPT: otimizando a qualidade dos resultado ![](https://geps.dev/progress/75)
 4. HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags 
 5. HTML e CSS: Classes, posicionamento e Flexbox
 6. HTML e CSS: cabeçalho, footer e variáveis CSS
