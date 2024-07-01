@@ -298,3 +298,24 @@ Opiniões, pensamentos e ações baseados em alguma análise, também podem ser 
 
         Atendimento ao cliente
     ```
+
+## Trabalhando com textos longos - Parte 1
+
+Para conteúdos grandes, são necessário estratégias que reduzam o tamanho do conteúdo em um tamanho aceitável, para que o modelo do chatGPT entenda com mais clareza o que o usuário necessita.
+* Como exemplo de estratégia podemos citar:
+
+    1. Quebrar texto em resumos.
+    2. Limitar números de caracteres/palavras(limite até 4000 devido ao chatGPT).
+    3. Trabalho em paralelo(dois chats para resumir entre abas).
+    4. [Langchain](https://github.com/langchain-ai/langchain): biblioteca para permitir guardar resumos antigos para utilizar em prompts futuros dentro do chatGPT.
+
+## Trabalhando com textos longos - Parte 2: System e message
+
+Texto longos e muitas instruções tornam-se confusas para o chatGPT, visto que, a quantidade de informações são extremamente ambudantes.
+
+[Plataform OpenAI](https://platform.openai.com/playground/chat?models=gpt-3.5-turbo-1106) - site SYSTEM(que seria equivalente ao enxergar o que tem por trás dos panos do chatGPT) ferramenta de otimização do chatGPT. **NÃO GRATUITA!**. Com essa ferramente é possível entender, de maneira mais profunda, a regras existente dentro do IA para melhor compreensão do modelo e envio de resultados.
+
+
+   
+
+
