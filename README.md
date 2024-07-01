@@ -19,5 +19,5 @@
 
 1. Aprender a aprender: técnicas para seu autodesenvolvimento :white_check_mark:
 2. Linkedin: como fazer o seu perfil trabalhar para você ![](https://geps.dev/progress/0)
-3. Foco: trazendo mais resultado para o dia a dia ![](https://geps.dev/progress/45) * Ainda será feita a documentação do curso!
+3. Foco: trazendo mais resultado para o dia a dia ![](https://geps.dev/progress/66) * Ainda será feita a documentação do curso(EM DESENVOLVIMENTO)!
 4. Hábitos: da produtividade às metas pessoais ![](https://geps.dev/progress/0)
